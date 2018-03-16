@@ -5,6 +5,11 @@ date: "March 2018"
 output:
   md_document:
     variant: markdown_github
+  html_document:
+    toc: true
+    number_sections: yes
+    theme: cerulean
+    highlight: tango
 ---
 
 ```{r setup, include=FALSE}
@@ -15,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 [Data]: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BSASJR
 ["The Effectiveness of Gender Quotas in Development Programming: Null Results from a Field Experiment in Congo"]: http://www.macartan.nyc/wp-content/uploads/2018/03/WHS2018_Gender_Parity.pdf
 [This .Rmd]: https://github.com/medinali/VDW-H-SDS_2018/blob/master/Replication.Rmd
-[replication code files]: https://github.com/medinali/VDW-H-SDS_2018/tree/master
+[replication code files]: https://github.com/medinali/VDW-H-SDS_2018
 
 [This .Rmd] file replicates the core analysis as well as additional results from ["The Effectiveness of Gender Quotas in Development Programming: Null Results from a Field Experiment in Congo"].
 
