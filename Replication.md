@@ -1,4 +1,4 @@
--   [This .Rmd](https://github.com/medinali/VDW-H-SDS_2018/blob/master/Replication.Rmd) file replicates the core analysis as well as additional results from \["The Effectiveness of Gender Quotas in Development Programming: Null Results from a Field Experiment in Congo (van der Windt, Humphreys, and Sanchez de la Sierra, 2018)"\].
+-   [This .Rmd](https://github.com/medinali/VDW-H-SDS_2018/blob/master/Replication.Rmd) file replicates the core analysis as well as additional results from ["The Effectiveness of Gender Quotas in Development Programming: Null Results from a Field Experiment in Congo (van der Windt, Humphreys, and Sanchez de la Sierra, 2018)"](http://www.macartan.nyc/wp-content/uploads/2018/03/WHS2018_Gender_Parity.pdf).
 
 -   [Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BSASJR) and [replication code files](https://github.com/medinali/VDW-H-SDS_2018) can be found online.
 
