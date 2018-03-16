@@ -3,13 +3,13 @@ title: 'The Effectiveness of Gender Quotas in Development Programming: Null Resu
 author: "Peter van der Windt, Macartan Humphreys and Raul Sanchez de la Sierra"
 date: "March 2018"
 output:
+  md_document:
+    variant: markdown_github
   html_document:
     toc: true
     number_sections: yes
     theme: cerulean
     highlight: tango
-  md_document:
-    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
@@ -18,12 +18,12 @@ gc()
 knitr::opts_chunk$set(echo = TRUE)
 ```
 [Data]: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BSASJR
-["The Effectiveness of Gender Quotas in Development Programming: Null Results from a Field Experiment in Congo (van der Windt, Humphreys, and Sanchez de la Sierra, 2018)"]: http://www.macartan.nyc/wp-content/uploads/2018/03/WHS2018_Gender_Parity.pdf
+["The Effectiveness of Gender Quotas in Development Programming: Null Results from a Field Experiment in Congo" (van der Windt, Humphreys, and Sanchez de la Sierra, 2018)]: http://www.macartan.nyc/wp-content/uploads/2018/03/WHS2018_Gender_Parity.pdf
 [This .Rmd]: https://github.com/medinali/VDW-H-SDS_2018/blob/master/Replication.Rmd
 [replication code files]: https://github.com/medinali/VDW-H-SDS_2018
 
 
-* [This .Rmd] file replicates the core analysis as well as additional results from ["The Effectiveness of Gender Quotas in Development Programming: Null Results from a Field Experiment in Congo (van der Windt, Humphreys, and Sanchez de la Sierra, 2018)"].
+* [This .Rmd] file replicates the core analysis as well as additional results from ["The Effectiveness of Gender Quotas in Development Programming: Null Results from a Field Experiment in Congo" (van der Windt, Humphreys, and Sanchez de la Sierra, 2018)].
 
 * [Data] and [replication code files] can be found online. 
 
